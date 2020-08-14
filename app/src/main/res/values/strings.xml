@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Burger Freakz</string>
+    <string name="basket">Your Basket</string>
+    <string name="net_total">Net Total</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_no">Phone Number</string>
+    <string name="landmarks">Landmarks</string>
+    <string name="order_no">Order No</string>
+    <string name="rider_name">Rider Name</string>
+    <string name="rider_no">Rider No</string>
+    <string name="bike_no">Bike No</string>
+    <string name="contact_no">Contact No</string>
+</resources>
